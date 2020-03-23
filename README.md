@@ -1,2 +1,0 @@
-# ErkWalks
-test
