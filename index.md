@@ -18,8 +18,13 @@
       <div class="footer">
         <div class="webgl-logo"></div>
         <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
-        <div class="title">UnityProject</div>
+        <div class="title">Walk Cycle Blend Test</div>
       </div>
+      <div>
+        <p>text</p>
+        <h1>header 1</h1>
+        <h2>header 2</h2>
+        </div>
     </div>
   </body>
 </html>
